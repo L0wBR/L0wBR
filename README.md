@@ -1,11 +1,10 @@
-# Olá, eu sou Luís Chavez (L0wBR) 👋
+# Olá, eu sou Luís Carnelosso 👋
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/SEU_LINKEDIN_AQUI)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luís-carnelosso/)
 [![GitHub](https://img.shields.io/badge/GitHub-L0wBR-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/L0wBR)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-L0wBR-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/L0wBR)
-[![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)](https://www.hackthebox.com/)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-luiscarnelosso-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/luiscarnelosso)
 
 </div>
 
@@ -22,7 +21,7 @@ Possuo um perfil curioso, analítico e orientado a entender profundamente o func
   - Lógica de Programação (**Senac**)
   - Desenvolvimento em Python (**Hashtag Treinamentos**)
   - Fundamentos da Computação (**Digital Innovation One - DIO**)
-  - Práticas de Networking e Ethical Hacking (**TryHackMe** & **HackTheBox**)
+  - Práticas de Networking e Segurança da Informação (**TryHackMe**)
 - 🌐 **Idiomas:** Inglês (Intermediário).
 - ⚡ **Diferenciais:** Disciplina, rápida curva de aprendizado, flexibilidade e foco em resolução de problemas.
 
@@ -38,7 +37,6 @@ Possuo um perfil curioso, analítico e orientado a entender profundamente o func
 #### 🛡️ Cibersegurança, Redes & Sistemas
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![TryHackMe](https://img.shields.io/badge/TryHackMe-212C42?style=for-the-badge&logo=tryhackme&logoColor=white)
-![Hack The Box](https://img.shields.io/badge/HackTheBox-111927?style=for-the-badge&logo=hackthebox&logoColor=9FEF00)
 ![Redes](https://img.shields.io/badge/Redes_&_TCP/IP-005571?style=for-the-badge&logo=wireshark&logoColor=white)
 
 #### 🧰 Ferramentas & Produtividade
